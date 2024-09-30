@@ -105,7 +105,7 @@ functionAlias --> cosmosDbAlias
 @enduml
 ```
 
-![Hello World](http://www.plantuml.com/plantuml/proxy?idx=0&src=https%3A%2F%2Fraw.githubusercontent.com%2Fplantuml-stdlib%2FAzure-PlantUML%2Fmaster%2Fsamples%2FHello%2520World.puml)
+![Hello World](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/aamurillo5280/Azure-PlantUML/refs/heads/master/samples/Hello%20World.puml)
 
 ## Usages
 
