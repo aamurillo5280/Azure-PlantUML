@@ -8,7 +8,7 @@
 
 actor "Person" as personAlias
 AzureFunction(functionAlias, "Label", "Technology", "Optional Description")
-AzureCosmosDb(cosmosDbAlias, "Label", "Testing Update", "Optional Description")
+AzureCosmosDb(cosmosDbAlias, "Label", "Another Update", "Optional Description")
 
 personAlias --> functionAlias
 functionAlias --> cosmosDbAlias
